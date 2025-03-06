@@ -7,3 +7,10 @@
 1. Buka Command Prompt
 2. Ketikan Perintah `java --version`
 3. Jika Sudah Akan Muncul Versi JDK Yang Digunakan
+
+## Compile
+
+- Proses *Compile* Dilakukan Dengan Perintah `javac <NamaFileJava.java>`, contoh: `javac HelloWorld.java`
+- Apabila Tidak Terdapat *Error* Maka Akan Tercipta ***File Byte Code*** Atau ***Machine Code***, Untuk Menampilkan Hasilnya
+  Jalankan Dengan Perintah `java <NamaClass>`, contoh `java HelloWorld`
+  Maka Hasil Akan Tampil
