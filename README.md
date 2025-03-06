@@ -10,7 +10,8 @@
 
 ## Compile
 
-- Proses *Compile* Dilakukan Dengan Perintah `javac <NamaFileJava.java>`, contoh: `javac HelloWorld.java`
-- Apabila Tidak Terdapat *Error* Maka Akan Tercipta ***File Byte Code*** Atau ***Machine Code***, Untuk Menampilkan Hasilnya
-  Jalankan Dengan Perintah `java <NamaClass>`, contoh `java HelloWorld`
-  Maka Hasil Akan Tampil
+- Proses *Compile* Dilakukan Dengan Perintah `javac <NamaFileJava.java>`
+  <br>Contoh: `javac HelloWorld.java`
+- Apabila Tidak Terdapat *Error* Maka Akan Tercipta ***File Byte Code*** Atau ***Machine Code***
+  <br>Untuk Menampilkan Hasilnya Jalankan Dengan Perintah `java <NamaClass>`
+  <br>Contoh: `java HelloWorld` Maka Hasil Akan Tampil
