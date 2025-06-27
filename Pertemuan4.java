@@ -34,11 +34,11 @@ public class Pertemuan4 {
     Misalkan saya ingin memeriksa data sebagai berikut:
 
     Nilai         Grade
-      0   - 100	    A
-      70  - 79	    B
-      60  - 69    	C
-      50  - 59	    D
-    < 50	          E
+      0   - 100    A
+      70  - 79     B
+      60  - 69     C
+      50  - 59     D
+    < 50           E
 
     Pada kondisi seperti di atas dapat diselesaikan dengan if ... else if ... else
     Seperti berikut:
